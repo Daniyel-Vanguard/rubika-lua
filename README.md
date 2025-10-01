@@ -219,6 +219,7 @@ rubika-bot-lua/
 ├── examples/              # مثال‌های مختلف
 │   ├── simple_bot.lua
 │   ├── keyboard_bot.lua
+│   ├── chat_type_bot.lua
 │   └── media_bot.lua
 ├── docs/                  # مستندات
 └── README.md
