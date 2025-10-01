@@ -5,6 +5,10 @@
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Rubika](https://img.shields.io/badge/Rubika-Bot-FF6B6B?style=for-the-badge)
 ![Webhook](https://img.shields.io/badge/Webhook-Enabled-4ECDC4?style=for-the-badge)
+<br>
+  <img align="center" src="https://rubika.ir/static/images/logo.svg"/>
+  <br/>
+  <img align="center" src="[https://rubika.ir/static/images/logo.svg](https://fa.wikipedia.org/wiki/%D9%84%D9%88%D8%A2#/media/%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87:Lua-Logo.svg)"/>
 
 ## ✨ ویژگی‌ها
 
