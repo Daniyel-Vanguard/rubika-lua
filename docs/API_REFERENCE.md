@@ -143,3 +143,81 @@ edit_inline_keypad(chat_id, message_id, inline_keypad)
 ```lua
 bot:edit_inline_keypad(chat_id, message_id, new_keyboard)
 ```
+## مدیریت انواع چت
+
+### `get_chat_type(chat_id)`
+دریافت نوع چت
+
+```lua
+local chat_type = bot:get_chat_type(chat_id)
+-- مقادیر ممکن: "User", "Group", "Channel"
+```
+
+is_private_chat(chat_id)
+
+بررسی چت خصوصی
+
+```lua
+if bot:is_private_chat(chat_id) then
+    print("این یک چت خصوصی است")
+end
+```
+
+is_group(chat_id)
+
+بررسی گروه
+
+```lua
+if bot:is_group(chat_id) then
+    print("این یک گروه است")
+end
+```
+
+is_channel(chat_id)
+
+بررسی کانال
+
+```lua
+if bot:is_channel(chat_id) then
+    print("این یک کانال است")
+end
+```
+
+get_chat_info(chat_id)
+
+دریافت اطلاعات کامل چت
+
+```lua
+local info = bot:get_chat_info(chat_id)
+print("نوع چت:", info.type_fa)  -- "کاربر", "گروه", "کانال"
+print("ایموجی:", info.type_emoji)  -- "👤", "👥", "📢"
+```
+
+get_chat_members(chat_id, limit)
+
+دریافت لیست اعضای گروه/کانال
+
+```lua
+local members = bot:get_chat_members(chat_id, 50)
+```
+
+is_user_in_chat(chat_id, user_id)
+
+بررسی حضور کاربر در گروه/کانال
+
+```lua
+if bot:is_user_in_chat(chat_id, user_id) then
+    print("کاربر در چت حضور دارد")
+end
+```
+
+send_smart_message(chat_id, text, ...)
+
+ارسال پیام با پیشوند خودکار
+
+```lua
+-- در گروه: "👥 گروه: متن"
+-- در کانال: "📢 کانال: متن" 
+-- در کاربر: "👤 کاربر: متن"
+bot:send_smart_message(chat_id, "سلام")
+```
