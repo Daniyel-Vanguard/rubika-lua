@@ -79,7 +79,9 @@ lua my_first_bot.lua
 # 🎯 قدم بعدی
 
 <a href="https://github.com/Daniyel-Vanguard/rubika-lua/blob/main/docs/API_REFERENCE.md">مستندات کامل API</a>
-    اضافه کردن کیبورد
+<br>
+<a href="https://github.com/Daniyel-Vanguard/rubika-lua/blob/main/docs/KEYBOARDS_GUIDE.md">اضافه کردن کیبورد
+</a>
 
     ارسال مدیا
 
