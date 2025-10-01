@@ -6,9 +6,8 @@
 ![Rubika](https://img.shields.io/badge/Rubika-Bot-FF6B6B?style=for-the-badge)
 ![Webhook](https://img.shields.io/badge/Webhook-Enabled-4ECDC4?style=for-the-badge)
 <br>
-  <img align="center" src="https://rubika.ir/static/images/logo.svg"/>
-  <br/>
-  <img align="center" src="[https://rubika.ir/static/images/logo.svg](https://fa.wikipedia.org/wiki/%D9%84%D9%88%D8%A2#/media/%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87:Lua-Logo.svg)"/>
+  <img align="center" width="200" height="200"  src="https://rubika.ir/static/images/logo.svg"/>
+ <img alt="File:Lua-Logo.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/600px-Lua-Logo.svg.png?20150107024942" decoding="async" width="200" height="200" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/900px-Lua-Logo.svg.png?20150107024942 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png?20150107024942 2x" data-file-width="947" data-file-height="947">
 
 ## ✨ ویژگی‌ها
 
