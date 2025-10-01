@@ -82,6 +82,9 @@ lua my_first_bot.lua
 <br>
 <a href="https://github.com/Daniyel-Vanguard/rubika-lua/blob/main/docs/KEYBOARDS_GUIDE.md">اضافه کردن کیبورد
 </a>
+<br>
+<a href="https://github.com/Daniyel-Vanguard/rubika-lua/blob/main/docs/MEDIA_GUIDE.md">ارسال مدیا 
+</a>
 
-    ارسال مدیا
+    
 
