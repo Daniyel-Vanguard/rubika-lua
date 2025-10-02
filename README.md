@@ -31,6 +31,7 @@ sudo pacman -S lua
 luarocks install lua-cjson
 luarocks install luasocket
 luarocks install luasec
+luarocks install rubika
 ```
 
 ## نصب و اجرا
